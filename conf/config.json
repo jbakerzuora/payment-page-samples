@@ -12,15 +12,15 @@
         "publicKey": ""
     },
     "eu_sandbox":{
-        "username" : "",
-        "password" : "",
+        "username" : "zuorapiuser@zuora.com   ",
+        "password" : "Baseball7*",
         "oauth_token" : "",
         "rsa_signature": "/v1/rsa-signatures",
         "zuora_base_url": "https://sandbox.eu.zuora.com",
         "payment_page_url": "https://sandbox.eu.zuora.com/apps/PublicHostedPageLite.do",
-        "pageId": "",
+        "pageId": "8adcb7bd8fbe8d1c018fc3decaf87dd4",
         "accountId":"",
-        "publicKey": ""
+        "publicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAl+f4kV+33706A8LkgHJaHl1LRT+wwlcI7bD92FVnHbTB5XtoZbZXaI6ccpdyrp4YnbAPttzsRR1zkSuJ51x9ADsKJan1Ec3RMwcrh79arjcch2s5AZzUGRKPoKgILFuDknf8L79nl7ztUvUbN3GoNvCsQZPoV3XpIMayS9VZnMW6+RPGtFDEKqgui66KvaYdWletChi7sRONLBrvHri7etLrQLd8qVaOHOpQ87LjRs9dBt8cJFSLT5Q4vzEhk+FqmRGxSVbeZ5FUEEngucbDVdfJ3LZ0peSmlZBh1PafIrXt69tWx4v7jnzlBLEjqDfJHTARxByvVrX0anXaccx7lwIDAQAB"
     },
 
     "na_sandbox":{
