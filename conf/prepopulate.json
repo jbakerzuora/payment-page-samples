@@ -1,12 +1,12 @@
 {  
     "creditCard": {
-        "creditCardAddress1": "123 Any Street",
-        "creditCardAddress2": "Suite #999",
-        "creditCardCountry": "USA",
-        "creditCardHolderName": "John Doe",
-        "creditCardNumber": "4000000000001091",
-        "creditCardExpirationYear": "2025",
-        "creditCardExpirationMonth": "01"
+        "creditCardAddress1": "",
+        "creditCardAddress2": "9",
+        "creditCardCountry": "",
+        "creditCardHolderName": "",
+        "creditCardNumber": "",
+        "creditCardExpirationYear": "",
+        "creditCardExpirationMonth": ""
     },
     "bankTransfer" : {
         "bankAccountNumber": "",
